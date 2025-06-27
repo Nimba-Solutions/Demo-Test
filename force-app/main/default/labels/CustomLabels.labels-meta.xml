@@ -7,4 +7,18 @@
         <shortDescription>sample custom label</shortDescription>
         <value>yes</value>
     </labels>
+    <labels>
+        <fullName>custom_label_3</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>custom label 3</shortDescription>
+        <value>maybe</value>
+    </labels>
+    <labels>
+        <fullName>sample_label_2</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>sample label 2</shortDescription>
+        <value>no</value>
+    </labels>
 </CustomLabels>
